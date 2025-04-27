@@ -1,0 +1,3 @@
+A guest lecture which started with looking into the Artificial Neurons, compared them with the biological neurons. 
+Also learned about And Gate, Or Gate,Threshold functions for ‘and gate’ and 'or gate’, and Hebb's rule.
+We learnt how artificial neurons are built and trained, forward pass and reverse pass and at last estimating and minimising the loss.
