@@ -1,11 +1,17 @@
-The class started with a discussion on the list of technical devices that students have submitted.
-We learnt the working of the computer, the working of different internal parts. Learnt about some of the hidden and underlying things like Address Line/Bus, Data Line/Bus.
-We moreover looked at how these lines are connected with the memory and CPU, what are their functioning and how they help in the functioning of the computer.
-We learnt that the computer understands only binary numbers and the difference between Binary and normal numbers, how the computer understand numbers other than 1 and 0, how can we convert Normal numbers into Binary numbers and vice-versa.
+16th January.
+	This was the first class. The class started with the introduction of the students, which included why we chose this course as our OT and what we are expecting from the course.
+After the introduction we were divided into groups of 5 and were asked to visit the campus and make a list of the things that we see around in the campus  and come under technology according to us. After making the list we re-gathered in the class. 
+We were given homework on how to send emails to multiple users by the integration of Gmail and Sheets. At last the professor took attendance and asked us to submit the list that we made about technical devices around the campus on moodle. 
+
+21st January.
+	The class started with a discussion on the list of technical devices that students have submitted.
+We learnt the working of the computer, the working of different internal parts. Learned about some of the hidden and underlying things like Address Line/Bus, Data Line/Bus.
+We moreover looked at how these lines are connected with the memory and CPU, what their functions are and how they help in the functioning of the computer.
+We learnt that the computer understands only binary numbers and the difference between Binary and normal numbers, how the computer understands numbers other than 1 and 0, how can we convert Normal numbers into Binary numbers and vice-versa.
 
 Converting Normal numbers to Binary numbers.
         i. 186 to Binary
-           For converting a number into binary we divide the number by 2 and note the remainder, and again divide the quotient by 2 and note the remainder, we follow this process untill we get the last set as 1/2 and get the remainder 1
+           For converting a number into binary we divide the number by 2 and note the remainder, and again divide the quotient by 2 and note the remainder, we follow this process until we get the last set as 1/2 and get the remainder 1
            186/2 = 93, 0
            93/2 = 46, 1
            46/2 = 23, 0
@@ -17,7 +23,7 @@ Converting Normal numbers to Binary numbers.
            So the binary representation of 186 will be 10111010.
 Converting Normal numbers to Binary numbers. (We can also use this to check whether our binary number that we created from the normal number is correct or not.
       ii. 10111001 to Binary.
-          To convert this number to binary we power 2 to the digital place from 0 to n, mutiply the result with thw binary numbers and then add all of them
+          To convert this number to binary we power 2 to the digital place from 0 to n, mutiply the result with the binary numbers and then add all of them
           [1* (2^7)] + [0* (2^6)] + [1* (2^5)] + [1* (2^4)] + [1* (2^3)] + [0* (2^2)] + [1* (2^1)] + [0*(2^0)]
           128 + 0 + 32 + 16 + 8 + 0 +2 + 0
           186.
