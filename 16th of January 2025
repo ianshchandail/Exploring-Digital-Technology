@@ -1,3 +1,96 @@
+16th February.
 This was the first class. The class started with the introduction of the students, which included why we chose this course as our OT and what we are expecting from the course.
 After the introduction we were divided into groups of 5 and were asked to visit the campus and make a list of the things that we see around in the campus  and come under technology according to us. After making the list we re-gathered in the class. 
 We were given homework on how to send emails to multiple users by the integration of Gmail and Sheets. At last the professor took attendance and asked us to submit the list that we made about technical devices around the campus on moodle. 
+
+21st January.
+The class started with a discussion on the list of technical devices that students have submitted.
+We learnt the working of the computer, the working of different internal parts. Learned about some of the hidden and underlying things like Address Line/Bus, Data Line/Bus.
+We moreover looked at how these lines are connected with the memory and CPU, what their functions are and how they help in the functioning of the computer.
+We learnt that the computer understands only binary numbers and the difference between Binary and normal numbers, how the computer understands numbers other than 1 and 0, how can we convert Normal numbers into Binary numbers and vice-versa.
+Converting Normal numbers to Binary numbers.
+        i. 186 to Binary
+           For converting a number into binary we divide the number by 2 and note the remainder, and again divide the quotient by 2 and note the remainder, we follow this process until we get the last set as 1/2 and get the remainder 1
+           186/2 = 93, 0
+           93/2 = 46, 1
+           46/2 = 23, 0
+           23/2 = 11, 1
+           11/2 = 5, 1
+           5/2 = 2, 1
+           2/2 = 1, 0
+           1/2 = 0, 1
+           So the binary representation of 186 will be 10111010.
+Converting Normal numbers to Binary numbers. (We can also use this to check whether our binary number that we created from the normal number is correct or not.
+      ii. 10111001 to Binary.
+          To convert this number to binary we power 2 to the digital place from 0 to n, mutiply the result with the binary numbers and then add all of them
+          [1* (2^7)] + [0* (2^6)] + [1* (2^5)] + [1* (2^4)] + [1* (2^3)] + [0* (2^2)] + [1* (2^1)] + [0*(2^0)]
+          128 + 0 + 32 + 16 + 8 + 0 +2 + 0
+          186.
+
+23rd January.
+Class started with the outlining of the overall structure of the course, key units, and the way in which assessments are going to happen.
+After that we the lecture started by looking into cybersecurity concepts, explaining how hackers can intercept data over open Wi-Fi networks.
+We also learned about deceptive practices used by network providers where network service providers often manipulate or resell network speeds, which affects user experience.
+A brief introduction to GIT software was provided, along with an in-depth look at logic gates and the internal operations of CPUs, ALUs, registers, and compilers, emphasizing the role of the Program Counter (PC) and operating systems.
+
+27th January.
+In this class we again discussed Address Bus and Data Bus but undertoos its functioning completely. We looked into the  internal communication of computers through the Address Bus and Data Bus.
+We learned the functioning of commands like load, store, input, output, add, and subtract.
+The role of transistors as electronic gatekeepers and how computations in the ALU are stored temporarily in special registers like the Accumulator was explained.
+
+30th of January.
+In this class we were given a quiz on Binary numbers where we converted numbers from normal form to binary, from binary to normal and some other related questions.
+
+4th February.
+In this class we installed WSL (Windows Subsystem for Linux) on our laptops by using Ubuntu.
+After the installation of Linux we tried some of the basic commands, such as looking into the directories, reading new directories and deleting directories.
+We also looked at how we can open apps without actually double clicking in an easy way.	
+
+11th February.
+In this class we were introduced to Powershell and its basic functioning.
+Next we were given a task to download an image, a MP3 file and a document. After downloading them we were asked to open them using the WSL without actually double clicking them.
+
+13th February.
+This class continues with looking into the Linux commands and changing the environment variables and connecting it with WSL.
+Looked into the text editors like pico, and tried doing the tasks like creating, deleting files and directories.
+Professor also gave a brief description on the history and significance of Linux and Unix systems.
+
+18th of February.
+This class was reserved for presentation by students in groups, where they were supposed to choose a topic from the things that are covered in the class till now and have to present what they have understood from that.
+
+4th of March.
+Again looked into Linux commands worked more within the file editing with Pico.
+Learned some of the new commands like chmod, bash, ps-aux, ps-ef, cat, wc, pipe, wc-l. 
+
+6th March.
+For a short duration class was conducted online, where we revisited some of the old codes.
+
+11th March.
+A guest lecture had happened.
+This lecture highlighted how technology is developing (with the example of an auto parking car) and showed how it has made human life easy in day to day life and how the future with technology is going to be.
+
+
+13th March.
+A quiz on linux Commands was conducted.
+
+20th of March.
+In this session we learnt how to rename multiple files by using mv.
+
+27th of March.
+Learned about Internet Protocol addresses, firewall, data packaging, and the differences between protocols like HTTP and FTP.
+Also got to know how the process of data transfer and server communication intricacies.
+
+1st of April.
+A quiz on internet data transmission and protocols based on reading was conducted. Also learned about the push and pull permissions on Git, and how to use git on WSL. 
+
+8th of April.
+A guest lecture which started with looking into the Artificial Neurons, compared them with the biological neurons. 
+Also learned about And Gate, Or Gate,Threshold functions for ‘and gate’ and 'or gate’, and Hebb's rule.
+We learnt how artificial neurons are built and trained, forward pass and reverse pass and at last estimating and minimising the loss.
+
+10th April.
+Groups of students discussed their topic and ideas for the last presentation.
+
+22nd of April.
+In this class the presentation by the groups was expected to happen, but no group was ready so the presentations were postponed.
+A feedback session on what students have expected but had not happened, and what are the things they liked or disliked in the course had happened.
