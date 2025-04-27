@@ -1,4 +1,3 @@
 In this class we again discussed Address Bus and Data Bus but undertoos its functioning completely. We looked into the  internal communication of computers through the Address Bus and Data Bus.
 We learned the functioning of commands like load, store, input, output, add, and subtract.
 The role of transistors as electronic gatekeepers and how computations in the ALU are stored temporarily in special registers like the Accumulator was explained.
-so
